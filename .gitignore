@@ -102,3 +102,12 @@ dist
 
 # TernJS port file
 .tern-port
+.DS_Store
+html.html
+index.html 
+game/.editorconfig
+game/.eslintrc
+game/.eslintrc.js
+game/.prettierrc
+game/pnpm-lock.yaml
+game/public/favicon.ico
