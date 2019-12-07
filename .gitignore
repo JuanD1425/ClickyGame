@@ -104,7 +104,6 @@ dist
 .tern-port
 .DS_Store
 html.html
-index.html 
 game/.editorconfig
 game/.eslintrc
 game/.eslintrc.js
