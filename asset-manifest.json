@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/ClickyGame/static/css/main.d62b3561.chunk.css",
+    "main.js": "/ClickyGame/static/js/main.e8e63f6f.chunk.js",
+    "main.js.map": "/ClickyGame/static/js/main.e8e63f6f.chunk.js.map",
+    "runtime-main.js": "/ClickyGame/static/js/runtime-main.33a53e43.js",
+    "runtime-main.js.map": "/ClickyGame/static/js/runtime-main.33a53e43.js.map",
+    "static/js/2.557ccbf2.chunk.js": "/ClickyGame/static/js/2.557ccbf2.chunk.js",
+    "static/js/2.557ccbf2.chunk.js.map": "/ClickyGame/static/js/2.557ccbf2.chunk.js.map",
+    "index.html": "/ClickyGame/index.html",
+    "precache-manifest.b9fab0d376b5b6f6908750a7bfd3f282.js": "/ClickyGame/precache-manifest.b9fab0d376b5b6f6908750a7bfd3f282.js",
+    "service-worker.js": "/ClickyGame/service-worker.js",
+    "static/css/main.d62b3561.chunk.css.map": "/ClickyGame/static/css/main.d62b3561.chunk.css.map",
+    "static/media/bad_janet.jpg": "/ClickyGame/static/media/bad_janet.625eb76a.jpg",
+    "static/media/chidi.jpg": "/ClickyGame/static/media/chidi.50b0039a.jpg",
+    "static/media/disco_janet.png": "/ClickyGame/static/media/disco_janet.662caab4.png",
+    "static/media/eleanor.jpg": "/ClickyGame/static/media/eleanor.85c88304.jpg",
+    "static/media/good_janet.jpg": "/ClickyGame/static/media/good_janet.d3f36ab8.jpg",
+    "static/media/jason.jpg": "/ClickyGame/static/media/jason.5a6c70ee.jpg",
+    "static/media/michael.jpg": "/ClickyGame/static/media/michael.9b39574f.jpg",
+    "static/media/mindy-st-claire.jpg": "/ClickyGame/static/media/mindy-st-claire.11dfcb12.jpg",
+    "static/media/neutral_janet.png": "/ClickyGame/static/media/neutral_janet.6800c033.png",
+    "static/media/shawn.jpg": "/ClickyGame/static/media/shawn.f2785f2a.jpg",
+    "static/media/tahani.jpg": "/ClickyGame/static/media/tahani.0dd80174.jpg",
+    "static/media/the_judge.png": "/ClickyGame/static/media/the_judge.b6915e09.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33a53e43.js",
+    "static/js/2.557ccbf2.chunk.js",
+    "static/css/main.d62b3561.chunk.css",
+    "static/js/main.e8e63f6f.chunk.js"
+  ]
+}
