@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d62b3561.chunk.css",
+    "main.js": "/static/js/main.e8e63f6f.chunk.js",
+    "main.js.map": "/static/js/main.e8e63f6f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5a9bf512.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5a9bf512.js.map",
+    "static/js/2.557ccbf2.chunk.js": "/static/js/2.557ccbf2.chunk.js",
+    "static/js/2.557ccbf2.chunk.js.map": "/static/js/2.557ccbf2.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1d1f56fa853a87d0001839b9348057bf.js": "/precache-manifest.1d1f56fa853a87d0001839b9348057bf.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d62b3561.chunk.css.map": "/static/css/main.d62b3561.chunk.css.map",
+    "static/media/bad_janet.jpg": "/static/media/bad_janet.625eb76a.jpg",
+    "static/media/chidi.jpg": "/static/media/chidi.50b0039a.jpg",
+    "static/media/disco_janet.png": "/static/media/disco_janet.662caab4.png",
+    "static/media/eleanor.jpg": "/static/media/eleanor.85c88304.jpg",
+    "static/media/good_janet.jpg": "/static/media/good_janet.d3f36ab8.jpg",
+    "static/media/jason.jpg": "/static/media/jason.5a6c70ee.jpg",
+    "static/media/michael.jpg": "/static/media/michael.9b39574f.jpg",
+    "static/media/mindy-st-claire.jpg": "/static/media/mindy-st-claire.11dfcb12.jpg",
+    "static/media/neutral_janet.png": "/static/media/neutral_janet.6800c033.png",
+    "static/media/shawn.jpg": "/static/media/shawn.f2785f2a.jpg",
+    "static/media/tahani.jpg": "/static/media/tahani.0dd80174.jpg",
+    "static/media/the_judge.png": "/static/media/the_judge.b6915e09.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a9bf512.js",
+    "static/js/2.557ccbf2.chunk.js",
+    "static/css/main.d62b3561.chunk.css",
+    "static/js/main.e8e63f6f.chunk.js"
+  ]
+}

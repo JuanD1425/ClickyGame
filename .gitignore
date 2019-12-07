@@ -110,3 +110,13 @@ game/.eslintrc.js
 game/.prettierrc
 game/pnpm-lock.yaml
 game/public/favicon.ico
+.editorconfig
+.eslintrc
+.eslintrc.js
+.prettierrc
+pnpm-lock.yaml
+Procfile
+server/pnpm-lock.yaml
+server/views/error.jade
+server/views/index.jade
+server/views/layout.jade
